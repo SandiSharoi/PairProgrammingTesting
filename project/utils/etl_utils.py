@@ -127,11 +127,9 @@ def transform_final_df(covid_df: pd.DataFrame, weather_df: pd.DataFrame):
 def load_to_csv(final_df: pd.DataFrame, table_name: str):
     pw = os.getenv('password')
     user_input = input("Enter the password to save data to CSV: ")
-    if user_input == pw:
-        final_df.to_csv(f"{table_name}.csv", index=False, float_format="%.2f", na_rep="N/A")
-        print(f" {table_name}.csv saved successfully.")
-    else:
-        print(" Wow! You just missed the chance to save the CSV data!")
+    final_df.to_csv(f"{table_name}.csv", index=False, float_format="%.2f", na_rep="N/A")
+    print(f" {table_name}.csv saved successfully.")
+
 
 def load_to_excel(final_df: pd.DataFrame, table_name: str):
     pw = os.getenv('password')
