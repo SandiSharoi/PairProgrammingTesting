@@ -19,4 +19,8 @@ jobs:
       - name: Install dependencies
         run: pip install -r requirements.txt
       - name: Run Python file as testing
-        run: python p1.py        
+        run: python p1.py 
+      - name: Print Weather API secret
+        run: echo ${{ secrets.WEATHER_KEY}}
+      - name: Run ETL pipeline
+        run: python hw/city_weather_covid/main.py
