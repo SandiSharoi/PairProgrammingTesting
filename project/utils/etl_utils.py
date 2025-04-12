@@ -136,13 +136,11 @@ def load_to_csv(final_df: pd.DataFrame, table_name: str):
 def load_to_excel(final_df: pd.DataFrame, table_name: str):
     pw = os.getenv('password')
     user_input = input("Enter the password to save data to Excel: ")
-    if user_input == pw:
-        excel_file = f"{table_name}.xlsx"
-        with pd.ExcelWriter(excel_file, engine='openpyxl') as writer:
-            final_df.to_excel(writer, sheet_name="Data", index=False, float_format="%.2f", na_rep="N/A")
-        print(f" {excel_file} saved successfully in structured Excel format.")
-    else:
-        print(" Wow! You just missed the chance to save the Excel data!")
+    excel_file = f"{table_name}.xlsx"
+    with pd.ExcelWriter(excel_file, engine='openpyxl') as writer:
+        final_df.to_excel(writer, sheet_name="Data", index=False, float_format="%.2f", na_rep="N/A")
+    print(f" {excel_file} saved successfully in structured Excel format.")
+
 
 def load_to_files(final_df: pd.DataFrame, table_name: str):
     print("\n Saving to CSV...")
