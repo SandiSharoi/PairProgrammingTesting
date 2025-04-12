@@ -125,15 +125,11 @@ def transform_final_df(covid_df: pd.DataFrame, weather_df: pd.DataFrame):
 
 ## Loading data
 def load_to_csv(final_df: pd.DataFrame, table_name: str):
-    pw = os.getenv('password')
-    user_input = input("Enter the password to save data to CSV: ")
     final_df.to_csv(f"{table_name}.csv", index=False, float_format="%.2f", na_rep="N/A")
     print(f" {table_name}.csv saved successfully.")
 
 
 def load_to_excel(final_df: pd.DataFrame, table_name: str):
-    pw = os.getenv('password')
-    user_input = input("Enter the password to save data to Excel: ")
     excel_file = f"{table_name}.xlsx"
     with pd.ExcelWriter(excel_file, engine='openpyxl') as writer:
         final_df.to_excel(writer, sheet_name="Data", index=False, float_format="%.2f", na_rep="N/A")
