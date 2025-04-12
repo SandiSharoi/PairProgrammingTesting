@@ -4,7 +4,7 @@ import pandas as pd
 from utils.etl_utils import extract_covid, extract_cities, extract_weather_data, transform_final_df, load_to_files
 
 # Paths to local JSON files
-covid_json_path = "covid19.json"
+covid_json_path = "./project/covid19.json"
 cities_url = "https://raw.githubusercontent.com/dr5hn/countries-states-cities-database/refs/heads/master/json/cities.json"
 
 def get_top_3_death_countries_from_local(file_path: str):
