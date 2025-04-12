@@ -23,6 +23,6 @@ jobs:
       - name: Print Weather API secret
         run: echo ${{ secrets.WEATHER_KEY}}
       - name: Run ETL pipeline
-        run: python hw/city_weather_covid/main.py
+        run: python ./hw/city_weather_covid/main.py
         env:
           WEATHER_KEY: ${{secrets.WEATHER_KEY}}
