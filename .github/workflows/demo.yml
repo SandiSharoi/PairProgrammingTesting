@@ -31,5 +31,5 @@ jobs:
         run: |
           git config user.name "Github Actions"
           git config user.email "actions@users.noreply.github.com"
-          git add ./w10_demo.db
+          git add ./City_Weather_Covid_Data.xlsx
           git commit -m "Push db from demo" && git push || true
