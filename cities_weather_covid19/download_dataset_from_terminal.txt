@@ -1,0 +1,1 @@
+Invoke-WebRequest -Uri "https://raw.githubusercontent.com/owid/covid-19-data/refs/heads/master/public/data/latest/owid-covid-latest.json" -OutFile "covid-19.json"

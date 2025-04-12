@@ -1,0 +1,858 @@
+2025-03-27 09:48:44,210 - DEBUG - Starting new HTTPS connection (1): raw.githubusercontent.com:443
+2025-03-27 09:49:49,026 - DEBUG - https://raw.githubusercontent.com:443 "GET /dr5hn/countries-states-cities-database/refs/heads/master/json/countries%2Bcities.json HTTP/11" 200 736373
+2025-03-27 09:49:51,362 - INFO - Received data for Afghanistan - nan
+2025-03-27 09:49:51,362 - INFO - Received data for Aland Islands - nan
+2025-03-27 09:49:51,362 - INFO - Received data for Albania - nan
+2025-03-27 09:49:51,362 - INFO - Received data for Algeria - nan
+2025-03-27 09:49:51,362 - INFO - Received data for American Samoa - nan
+2025-03-27 09:49:51,362 - INFO - Received data for Andorra - nan
+2025-03-27 09:49:51,362 - INFO - Received data for Angola - nan
+2025-03-27 09:49:51,362 - INFO - Received data for Anguilla - nan
+2025-03-27 09:49:51,362 - INFO - Received data for Antarctica - nan
+2025-03-27 09:49:51,362 - INFO - Received data for Antigua and Barbuda - nan
+2025-03-27 09:49:51,362 - INFO - Received data for Argentina - nan
+2025-03-27 09:49:51,362 - INFO - Received data for Armenia - nan
+2025-03-27 09:49:51,362 - INFO - Received data for Aruba - nan
+2025-03-27 09:49:51,362 - INFO - Received data for Australia - nan
+2025-03-27 09:49:51,362 - INFO - Received data for Austria - nan
+2025-03-27 09:49:51,362 - INFO - Received data for Azerbaijan - nan
+2025-03-27 09:49:51,362 - INFO - Received data for Bahrain - nan
+2025-03-27 09:49:51,362 - INFO - Received data for Bangladesh - nan
+2025-03-27 09:49:51,362 - INFO - Received data for Barbados - nan
+2025-03-27 09:49:51,362 - INFO - Received data for Belarus - nan
+2025-03-27 09:49:51,362 - INFO - Received data for Belgium - nan
+2025-03-27 09:49:51,362 - INFO - Received data for Belize - nan
+2025-03-27 09:49:51,362 - INFO - Received data for Benin - nan
+2025-03-27 09:49:51,362 - INFO - Received data for Bermuda - nan
+2025-03-27 09:49:51,362 - INFO - Received data for Bhutan - nan
+2025-03-27 09:49:51,362 - INFO - Received data for Bolivia - nan
+2025-03-27 09:49:51,362 - INFO - Received data for Bonaire, Sint Eustatius and Saba - nan
+2025-03-27 09:49:51,362 - INFO - Received data for Bosnia and Herzegovina - nan
+2025-03-27 09:49:51,362 - INFO - Received data for Botswana - nan
+2025-03-27 09:49:51,362 - INFO - Received data for Bouvet Island - nan
+2025-03-27 09:49:51,362 - INFO - Received data for Brazil - nan
+2025-03-27 09:49:51,362 - INFO - Received data for British Indian Ocean Territory - nan
+2025-03-27 09:49:51,362 - INFO - Received data for Brunei - nan
+2025-03-27 09:49:51,366 - INFO - Received data for Bulgaria - nan
+2025-03-27 09:49:51,366 - INFO - Received data for Burkina Faso - nan
+2025-03-27 09:49:51,366 - INFO - Received data for Burundi - nan
+2025-03-27 09:49:51,366 - INFO - Received data for Cambodia - nan
+2025-03-27 09:49:51,366 - INFO - Received data for Cameroon - nan
+2025-03-27 09:49:51,366 - INFO - Received data for Canada - nan
+2025-03-27 09:49:51,366 - INFO - Received data for Cape Verde - nan
+2025-03-27 09:49:51,366 - INFO - Received data for Cayman Islands - nan
+2025-03-27 09:49:51,366 - INFO - Received data for Central African Republic - nan
+2025-03-27 09:49:51,366 - INFO - Received data for Chad - nan
+2025-03-27 09:49:51,366 - INFO - Received data for Chile - nan
+2025-03-27 09:49:51,366 - INFO - Received data for China - nan
+2025-03-27 09:49:51,366 - INFO - Received data for Christmas Island - nan
+2025-03-27 09:49:51,366 - INFO - Received data for Cocos (Keeling) Islands - nan
+2025-03-27 09:49:51,366 - INFO - Received data for Colombia - nan
+2025-03-27 09:49:51,366 - INFO - Received data for Comoros - nan
+2025-03-27 09:49:51,366 - INFO - Received data for Congo - nan
+2025-03-27 09:49:51,366 - INFO - Received data for Cook Islands - nan
+2025-03-27 09:49:51,366 - INFO - Received data for Costa Rica - nan
+2025-03-27 09:49:51,366 - INFO - Received data for Croatia - nan
+2025-03-27 09:49:51,366 - INFO - Received data for Cuba - nan
+2025-03-27 09:49:51,366 - INFO - Received data for Curaçao - nan
+2025-03-27 09:49:51,366 - INFO - Received data for Cyprus - nan
+2025-03-27 09:49:51,366 - INFO - Received data for Czech Republic - nan
+2025-03-27 09:49:51,366 - INFO - Received data for Democratic Republic of the Congo - nan
+2025-03-27 09:49:51,366 - INFO - Received data for Denmark - nan
+2025-03-27 09:49:51,366 - INFO - Received data for Djibouti - nan
+2025-03-27 09:49:51,368 - INFO - Received data for Dominica - nan
+2025-03-27 09:49:51,368 - INFO - Received data for Dominican Republic - nan
+2025-03-27 09:49:51,368 - INFO - Received data for Ecuador - nan
+2025-03-27 09:49:51,368 - INFO - Received data for Egypt - nan
+2025-03-27 09:49:51,368 - INFO - Received data for El Salvador - nan
+2025-03-27 09:49:51,368 - INFO - Received data for Equatorial Guinea - nan
+2025-03-27 09:49:51,368 - INFO - Received data for Eritrea - nan
+2025-03-27 09:49:51,368 - INFO - Received data for Estonia - nan
+2025-03-27 09:49:51,368 - INFO - Received data for Eswatini - nan
+2025-03-27 09:49:51,368 - INFO - Received data for Ethiopia - nan
+2025-03-27 09:49:51,368 - INFO - Received data for Falkland Islands - nan
+2025-03-27 09:49:51,368 - INFO - Received data for Faroe Islands - nan
+2025-03-27 09:49:51,368 - INFO - Received data for Fiji Islands - nan
+2025-03-27 09:49:51,368 - INFO - Received data for Finland - nan
+2025-03-27 09:49:51,368 - INFO - Received data for France - nan
+2025-03-27 09:49:51,368 - INFO - Received data for French Guiana - nan
+2025-03-27 09:49:51,368 - INFO - Received data for French Polynesia - nan
+2025-03-27 09:49:51,368 - INFO - Received data for French Southern Territories - nan
+2025-03-27 09:49:51,368 - INFO - Received data for Gabon - nan
+2025-03-27 09:49:51,368 - INFO - Received data for Georgia - nan
+2025-03-27 09:49:51,368 - INFO - Received data for Germany - nan
+2025-03-27 09:49:51,368 - INFO - Received data for Ghana - nan
+2025-03-27 09:49:51,368 - INFO - Received data for Gibraltar - nan
+2025-03-27 09:49:51,368 - INFO - Received data for Greece - nan
+2025-03-27 09:49:51,368 - INFO - Received data for Greenland - nan
+2025-03-27 09:49:51,368 - INFO - Received data for Grenada - nan
+2025-03-27 09:49:51,368 - INFO - Received data for Guadeloupe - nan
+2025-03-27 09:49:51,368 - INFO - Received data for Guam - nan
+2025-03-27 09:49:51,368 - INFO - Received data for Guatemala - nan
+2025-03-27 09:49:51,368 - INFO - Received data for Guernsey and Alderney - nan
+2025-03-27 09:49:51,368 - INFO - Received data for Guinea - nan
+2025-03-27 09:49:51,368 - INFO - Received data for Guinea-Bissau - nan
+2025-03-27 09:49:51,368 - INFO - Received data for Guyana - nan
+2025-03-27 09:49:51,368 - INFO - Received data for Haiti - nan
+2025-03-27 09:49:51,368 - INFO - Received data for Heard Island and McDonald Islands - nan
+2025-03-27 09:49:51,368 - INFO - Received data for Honduras - nan
+2025-03-27 09:49:51,368 - INFO - Received data for Hong Kong S.A.R. - nan
+2025-03-27 09:49:51,370 - INFO - Received data for Hungary - nan
+2025-03-27 09:49:51,370 - INFO - Received data for Iceland - nan
+2025-03-27 09:49:51,370 - INFO - Received data for India - nan
+2025-03-27 09:49:51,370 - INFO - Received data for Indonesia - nan
+2025-03-27 09:49:51,370 - INFO - Received data for Iran - nan
+2025-03-27 09:49:51,370 - INFO - Received data for Iraq - nan
+2025-03-27 09:49:51,370 - INFO - Received data for Ireland - nan
+2025-03-27 09:49:51,370 - INFO - Received data for Israel - nan
+2025-03-27 09:49:51,370 - INFO - Received data for Italy - nan
+2025-03-27 09:49:51,370 - INFO - Received data for Ivory Coast - nan
+2025-03-27 09:49:51,370 - INFO - Received data for Jamaica - nan
+2025-03-27 09:49:51,370 - INFO - Received data for Japan - nan
+2025-03-27 09:49:51,370 - INFO - Received data for Jersey - nan
+2025-03-27 09:49:51,370 - INFO - Received data for Jordan - nan
+2025-03-27 09:49:51,370 - INFO - Received data for Kazakhstan - nan
+2025-03-27 09:49:51,370 - INFO - Received data for Kenya - nan
+2025-03-27 09:49:51,370 - INFO - Received data for Kiribati - nan
+2025-03-27 09:49:51,370 - INFO - Received data for Kosovo - nan
+2025-03-27 09:49:51,370 - INFO - Received data for Kuwait - nan
+2025-03-27 09:49:51,370 - INFO - Received data for Kyrgyzstan - nan
+2025-03-27 09:49:51,370 - INFO - Received data for Laos - nan
+2025-03-27 09:49:51,370 - INFO - Received data for Latvia - nan
+2025-03-27 09:49:51,370 - INFO - Received data for Lebanon - nan
+2025-03-27 09:49:51,370 - INFO - Received data for Lesotho - nan
+2025-03-27 09:49:51,370 - INFO - Received data for Liberia - nan
+2025-03-27 09:49:51,370 - INFO - Received data for Libya - nan
+2025-03-27 09:49:51,370 - INFO - Received data for Liechtenstein - nan
+2025-03-27 09:49:51,370 - INFO - Received data for Lithuania - nan
+2025-03-27 09:49:51,370 - INFO - Received data for Luxembourg - nan
+2025-03-27 09:49:51,370 - INFO - Received data for Macau S.A.R. - nan
+2025-03-27 09:49:51,370 - INFO - Received data for Madagascar - nan
+2025-03-27 09:49:51,370 - INFO - Received data for Malawi - nan
+2025-03-27 09:49:51,370 - INFO - Received data for Malaysia - nan
+2025-03-27 09:49:51,370 - INFO - Received data for Maldives - nan
+2025-03-27 09:49:51,370 - INFO - Received data for Mali - nan
+2025-03-27 09:49:51,372 - INFO - Received data for Malta - nan
+2025-03-27 09:49:51,372 - INFO - Received data for Man (Isle of) - nan
+2025-03-27 09:49:51,372 - INFO - Received data for Marshall Islands - nan
+2025-03-27 09:49:51,372 - INFO - Received data for Martinique - nan
+2025-03-27 09:49:51,372 - INFO - Received data for Mauritania - nan
+2025-03-27 09:49:51,372 - INFO - Received data for Mauritius - nan
+2025-03-27 09:49:51,372 - INFO - Received data for Mayotte - nan
+2025-03-27 09:49:51,372 - INFO - Received data for Mexico - nan
+2025-03-27 09:49:51,372 - INFO - Received data for Micronesia - nan
+2025-03-27 09:49:51,372 - INFO - Received data for Moldova - nan
+2025-03-27 09:49:51,372 - INFO - Received data for Monaco - nan
+2025-03-27 09:49:51,372 - INFO - Received data for Mongolia - nan
+2025-03-27 09:49:51,372 - INFO - Received data for Montenegro - nan
+2025-03-27 09:49:51,372 - INFO - Received data for Montserrat - nan
+2025-03-27 09:49:51,372 - INFO - Received data for Morocco - nan
+2025-03-27 09:49:51,372 - INFO - Received data for Mozambique - nan
+2025-03-27 09:49:51,372 - INFO - Received data for Myanmar - nan
+2025-03-27 09:49:51,372 - INFO - Received data for Namibia - nan
+2025-03-27 09:49:51,372 - INFO - Received data for Nauru - nan
+2025-03-27 09:49:51,372 - INFO - Received data for Nepal - nan
+2025-03-27 09:49:51,372 - INFO - Received data for Netherlands - nan
+2025-03-27 09:49:51,372 - INFO - Received data for New Caledonia - nan
+2025-03-27 09:49:51,372 - INFO - Received data for New Zealand - nan
+2025-03-27 09:49:51,372 - INFO - Received data for Nicaragua - nan
+2025-03-27 09:49:51,372 - INFO - Received data for Niger - nan
+2025-03-27 09:49:51,374 - INFO - Received data for Nigeria - nan
+2025-03-27 09:49:51,374 - INFO - Received data for Niue - nan
+2025-03-27 09:49:51,374 - INFO - Received data for Norfolk Island - nan
+2025-03-27 09:49:51,374 - INFO - Received data for North Korea - nan
+2025-03-27 09:49:51,374 - INFO - Received data for North Macedonia - nan
+2025-03-27 09:49:51,374 - INFO - Received data for Northern Mariana Islands - nan
+2025-03-27 09:49:51,374 - INFO - Received data for Norway - nan
+2025-03-27 09:49:51,374 - INFO - Received data for Oman - nan
+2025-03-27 09:49:51,374 - INFO - Received data for Pakistan - nan
+2025-03-27 09:49:51,374 - INFO - Received data for Palau - nan
+2025-03-27 09:49:51,375 - INFO - Received data for Palestinian Territory Occupied - nan
+2025-03-27 09:49:51,375 - INFO - Received data for Panama - nan
+2025-03-27 09:49:51,375 - INFO - Received data for Papua New Guinea - nan
+2025-03-27 09:49:51,375 - INFO - Received data for Paraguay - nan
+2025-03-27 09:49:51,375 - INFO - Received data for Peru - nan
+2025-03-27 09:49:51,375 - INFO - Received data for Philippines - nan
+2025-03-27 09:49:51,375 - INFO - Received data for Pitcairn Island - nan
+2025-03-27 09:49:51,375 - INFO - Received data for Poland - nan
+2025-03-27 09:49:51,375 - INFO - Received data for Portugal - nan
+2025-03-27 09:49:51,375 - INFO - Received data for Puerto Rico - nan
+2025-03-27 09:49:51,375 - INFO - Received data for Qatar - nan
+2025-03-27 09:49:51,375 - INFO - Received data for Reunion - nan
+2025-03-27 09:49:51,375 - INFO - Received data for Romania - nan
+2025-03-27 09:49:51,375 - INFO - Received data for Russia - nan
+2025-03-27 09:49:51,375 - INFO - Received data for Rwanda - nan
+2025-03-27 09:49:51,375 - INFO - Received data for Saint Helena - nan
+2025-03-27 09:49:51,375 - INFO - Received data for Saint Kitts and Nevis - nan
+2025-03-27 09:49:51,375 - INFO - Received data for Saint Lucia - nan
+2025-03-27 09:49:51,375 - INFO - Received data for Saint Pierre and Miquelon - nan
+2025-03-27 09:49:51,375 - INFO - Received data for Saint Vincent and the Grenadines - nan
+2025-03-27 09:49:51,375 - INFO - Received data for Saint-Barthelemy - nan
+2025-03-27 09:49:51,375 - INFO - Received data for Saint-Martin (French part) - nan
+2025-03-27 09:49:51,375 - INFO - Received data for Samoa - nan
+2025-03-27 09:49:51,375 - INFO - Received data for San Marino - nan
+2025-03-27 09:49:51,375 - INFO - Received data for Sao Tome and Principe - nan
+2025-03-27 09:49:51,375 - INFO - Received data for Saudi Arabia - nan
+2025-03-27 09:49:51,375 - INFO - Received data for Senegal - nan
+2025-03-27 09:49:51,375 - INFO - Received data for Serbia - nan
+2025-03-27 09:49:51,377 - INFO - Received data for Seychelles - nan
+2025-03-27 09:49:51,377 - INFO - Received data for Sierra Leone - nan
+2025-03-27 09:49:51,377 - INFO - Received data for Singapore - nan
+2025-03-27 09:49:51,377 - INFO - Received data for Sint Maarten (Dutch part) - nan
+2025-03-27 09:49:51,377 - INFO - Received data for Slovakia - nan
+2025-03-27 09:49:51,377 - INFO - Received data for Slovenia - nan
+2025-03-27 09:49:51,377 - INFO - Received data for Solomon Islands - nan
+2025-03-27 09:49:51,377 - INFO - Received data for Somalia - nan
+2025-03-27 09:49:51,377 - INFO - Received data for South Africa - nan
+2025-03-27 09:49:51,377 - INFO - Received data for South Georgia - nan
+2025-03-27 09:49:51,377 - INFO - Received data for South Korea - nan
+2025-03-27 09:49:51,377 - INFO - Received data for South Sudan - nan
+2025-03-27 09:49:51,377 - INFO - Received data for Spain - nan
+2025-03-27 09:49:51,377 - INFO - Received data for Sri Lanka - nan
+2025-03-27 09:49:51,377 - INFO - Received data for Sudan - nan
+2025-03-27 09:49:51,377 - INFO - Received data for Suriname - nan
+2025-03-27 09:49:51,377 - INFO - Received data for Svalbard and Jan Mayen Islands - nan
+2025-03-27 09:49:51,377 - INFO - Received data for Sweden - nan
+2025-03-27 09:49:51,377 - INFO - Received data for Switzerland - nan
+2025-03-27 09:49:51,377 - INFO - Received data for Syria - nan
+2025-03-27 09:49:51,377 - INFO - Received data for Taiwan - nan
+2025-03-27 09:49:51,377 - INFO - Received data for Tajikistan - nan
+2025-03-27 09:49:51,377 - INFO - Received data for Tanzania - nan
+2025-03-27 09:49:51,377 - INFO - Received data for Thailand - nan
+2025-03-27 09:49:51,377 - INFO - Received data for The Bahamas - nan
+2025-03-27 09:49:51,377 - INFO - Received data for The Gambia  - nan
+2025-03-27 09:49:51,377 - INFO - Received data for Timor-Leste - nan
+2025-03-27 09:49:51,377 - INFO - Received data for Togo - nan
+2025-03-27 09:49:51,377 - INFO - Received data for Tokelau - nan
+2025-03-27 09:49:51,377 - INFO - Received data for Tonga - nan
+2025-03-27 09:49:51,377 - INFO - Received data for Trinidad and Tobago - nan
+2025-03-27 09:49:51,377 - INFO - Received data for Tunisia - nan
+2025-03-27 09:49:51,377 - INFO - Received data for Turkey - nan
+2025-03-27 09:49:51,377 - INFO - Received data for Turkmenistan - nan
+2025-03-27 09:49:51,377 - INFO - Received data for Turks and Caicos Islands - nan
+2025-03-27 09:49:51,377 - INFO - Received data for Tuvalu - nan
+2025-03-27 09:49:51,377 - INFO - Received data for Uganda - nan
+2025-03-27 09:49:51,377 - INFO - Received data for Ukraine - nan
+2025-03-27 09:49:51,377 - INFO - Received data for United Arab Emirates - nan
+2025-03-27 09:49:51,377 - INFO - Received data for United Kingdom - nan
+2025-03-27 09:49:51,377 - INFO - Received data for United States - nan
+2025-03-27 09:49:51,377 - INFO - Received data for United States Minor Outlying Islands - nan
+2025-03-27 09:49:51,377 - INFO - Received data for Uruguay - nan
+2025-03-27 09:49:51,377 - INFO - Received data for Uzbekistan - nan
+2025-03-27 09:49:51,377 - INFO - Received data for Vanuatu - nan
+2025-03-27 09:49:51,377 - INFO - Received data for Vatican City State (Holy See) - nan
+2025-03-27 09:49:51,377 - INFO - Received data for Venezuela - nan
+2025-03-27 09:49:51,377 - INFO - Received data for Vietnam - nan
+2025-03-27 09:49:51,377 - INFO - Received data for Virgin Islands (British) - nan
+2025-03-27 09:49:51,377 - INFO - Received data for Virgin Islands (US) - nan
+2025-03-27 09:49:51,377 - INFO - Received data for Wallis and Futuna Islands - nan
+2025-03-27 09:49:51,377 - INFO - Received data for Western Sahara - nan
+2025-03-27 09:49:51,377 - INFO - Received data for Yemen - nan
+2025-03-27 09:49:51,377 - INFO - Received data for Zambia - nan
+2025-03-27 09:49:51,377 - INFO - Received data for Zimbabwe - nan
+2025-03-27 09:49:51,393 - DEBUG - Starting new HTTPS connection (1): api.openweathermap.org:443
+2025-03-27 09:49:51,492 - DEBUG - https://api.openweathermap.org:443 "GET /data/2.5/weather?q=nan&appid=2821fede037be9d69dc969d62a41fd60&units=metric HTTP/11" 200 488
+2025-03-27 09:49:51,492 - DEBUG - Starting new HTTPS connection (1): api.openweathermap.org:443
+2025-03-27 09:50:13,150 - DEBUG - Can't get data from this city : nan
+2025-03-27 09:50:13,150 - INFO - This city nan is being none!
+2025-03-27 09:50:13,152 - DEBUG - Starting new HTTPS connection (1): api.openweathermap.org:443
+2025-03-27 09:50:14,006 - DEBUG - https://api.openweathermap.org:443 "GET /data/2.5/weather?q=nan&appid=2821fede037be9d69dc969d62a41fd60&units=metric HTTP/11" 200 488
+2025-03-27 09:50:14,016 - DEBUG - Starting new HTTPS connection (1): api.openweathermap.org:443
+2025-03-27 09:50:14,497 - DEBUG - https://api.openweathermap.org:443 "GET /data/2.5/weather?q=nan&appid=2821fede037be9d69dc969d62a41fd60&units=metric HTTP/11" 200 488
+2025-03-27 09:50:14,497 - DEBUG - Starting new HTTPS connection (1): api.openweathermap.org:443
+2025-03-27 09:50:14,922 - DEBUG - https://api.openweathermap.org:443 "GET /data/2.5/weather?q=nan&appid=2821fede037be9d69dc969d62a41fd60&units=metric HTTP/11" 200 488
+2025-03-27 09:50:14,927 - DEBUG - Starting new HTTPS connection (1): api.openweathermap.org:443
+2025-03-27 09:50:15,321 - DEBUG - https://api.openweathermap.org:443 "GET /data/2.5/weather?q=nan&appid=2821fede037be9d69dc969d62a41fd60&units=metric HTTP/11" 200 488
+2025-03-27 09:50:15,326 - DEBUG - Starting new HTTPS connection (1): api.openweathermap.org:443
+2025-03-27 09:50:15,559 - DEBUG - Can't get data from this city : nan
+2025-03-27 09:50:15,559 - INFO - This city nan is being none!
+2025-03-27 09:50:15,559 - DEBUG - Starting new HTTPS connection (1): api.openweathermap.org:443
+2025-03-27 09:51:08,354 - DEBUG - Can't get data from this city : nan
+2025-03-27 09:51:08,354 - INFO - This city nan is being none!
+2025-03-27 09:51:08,355 - DEBUG - Starting new HTTPS connection (1): api.openweathermap.org:443
+2025-03-27 09:51:08,681 - DEBUG - Can't get data from this city : nan
+2025-03-27 09:51:08,681 - INFO - This city nan is being none!
+2025-03-27 09:51:08,696 - DEBUG - Starting new HTTPS connection (1): api.openweathermap.org:443
+2025-03-27 09:51:08,918 - DEBUG - Can't get data from this city : nan
+2025-03-27 09:51:08,918 - INFO - This city nan is being none!
+2025-03-27 09:51:08,918 - DEBUG - Starting new HTTPS connection (1): api.openweathermap.org:443
+2025-03-27 09:51:09,417 - DEBUG - https://api.openweathermap.org:443 "GET /data/2.5/weather?q=nan&appid=2821fede037be9d69dc969d62a41fd60&units=metric HTTP/11" 200 488
+2025-03-27 09:51:09,417 - DEBUG - Starting new HTTPS connection (1): api.openweathermap.org:443
+2025-03-27 09:51:47,382 - DEBUG - Can't get data from this city : nan
+2025-03-27 09:51:47,382 - INFO - This city nan is being none!
+2025-03-27 09:51:47,386 - DEBUG - Starting new HTTPS connection (1): api.openweathermap.org:443
+2025-03-27 09:51:47,686 - DEBUG - Can't get data from this city : nan
+2025-03-27 09:51:47,686 - INFO - This city nan is being none!
+2025-03-27 09:51:47,686 - DEBUG - Starting new HTTPS connection (1): api.openweathermap.org:443
+2025-03-27 09:51:48,101 - DEBUG - https://api.openweathermap.org:443 "GET /data/2.5/weather?q=nan&appid=2821fede037be9d69dc969d62a41fd60&units=metric HTTP/11" 200 488
+2025-03-27 09:51:48,101 - DEBUG - Starting new HTTPS connection (1): api.openweathermap.org:443
+2025-03-27 09:51:48,630 - DEBUG - https://api.openweathermap.org:443 "GET /data/2.5/weather?q=nan&appid=2821fede037be9d69dc969d62a41fd60&units=metric HTTP/11" 200 488
+2025-03-27 09:51:48,630 - DEBUG - Starting new HTTPS connection (1): api.openweathermap.org:443
+2025-03-27 09:52:25,198 - DEBUG - Can't get data from this city : nan
+2025-03-27 09:52:25,198 - INFO - This city nan is being none!
+2025-03-27 09:52:25,198 - DEBUG - Starting new HTTPS connection (1): api.openweathermap.org:443
+2025-03-27 09:52:25,695 - DEBUG - https://api.openweathermap.org:443 "GET /data/2.5/weather?q=nan&appid=2821fede037be9d69dc969d62a41fd60&units=metric HTTP/11" 200 488
+2025-03-27 09:52:25,699 - DEBUG - Starting new HTTPS connection (1): api.openweathermap.org:443
+2025-03-27 09:53:22,371 - DEBUG - Can't get data from this city : nan
+2025-03-27 09:53:22,374 - INFO - This city nan is being none!
+2025-03-27 09:53:22,377 - DEBUG - Starting new HTTPS connection (1): api.openweathermap.org:443
+2025-03-27 09:53:22,866 - DEBUG - https://api.openweathermap.org:443 "GET /data/2.5/weather?q=nan&appid=2821fede037be9d69dc969d62a41fd60&units=metric HTTP/11" 200 488
+2025-03-27 09:53:22,868 - DEBUG - Starting new HTTPS connection (1): api.openweathermap.org:443
+2025-03-27 09:53:23,331 - DEBUG - https://api.openweathermap.org:443 "GET /data/2.5/weather?q=nan&appid=2821fede037be9d69dc969d62a41fd60&units=metric HTTP/11" 200 488
+2025-03-27 09:53:23,339 - DEBUG - Starting new HTTPS connection (1): api.openweathermap.org:443
+2025-03-27 09:53:23,746 - DEBUG - Can't get data from this city : nan
+2025-03-27 09:53:23,746 - INFO - This city nan is being none!
+2025-03-27 09:53:23,746 - DEBUG - Starting new HTTPS connection (1): api.openweathermap.org:443
+2025-03-27 09:53:24,361 - DEBUG - https://api.openweathermap.org:443 "GET /data/2.5/weather?q=nan&appid=2821fede037be9d69dc969d62a41fd60&units=metric HTTP/11" 200 488
+2025-03-27 09:53:24,365 - DEBUG - Starting new HTTPS connection (1): api.openweathermap.org:443
+2025-03-27 09:53:24,995 - DEBUG - https://api.openweathermap.org:443 "GET /data/2.5/weather?q=nan&appid=2821fede037be9d69dc969d62a41fd60&units=metric HTTP/11" 200 488
+2025-03-27 09:53:25,000 - DEBUG - Starting new HTTPS connection (1): api.openweathermap.org:443
+2025-03-27 09:53:25,197 - DEBUG - Can't get data from this city : nan
+2025-03-27 09:53:25,197 - INFO - This city nan is being none!
+2025-03-27 09:53:25,197 - DEBUG - Starting new HTTPS connection (1): api.openweathermap.org:443
+2025-03-27 09:53:25,403 - DEBUG - Can't get data from this city : nan
+2025-03-27 09:53:25,403 - INFO - This city nan is being none!
+2025-03-27 09:53:25,403 - DEBUG - Starting new HTTPS connection (1): api.openweathermap.org:443
+2025-03-27 09:53:25,703 - DEBUG - Can't get data from this city : nan
+2025-03-27 09:53:25,703 - INFO - This city nan is being none!
+2025-03-27 09:53:25,703 - DEBUG - Starting new HTTPS connection (1): api.openweathermap.org:443
+2025-03-27 09:53:26,038 - DEBUG - https://api.openweathermap.org:443 "GET /data/2.5/weather?q=nan&appid=2821fede037be9d69dc969d62a41fd60&units=metric HTTP/11" 200 488
+2025-03-27 09:53:26,041 - DEBUG - Starting new HTTPS connection (1): api.openweathermap.org:443
+2025-03-27 09:53:47,662 - DEBUG - Can't get data from this city : nan
+2025-03-27 09:53:47,662 - INFO - This city nan is being none!
+2025-03-27 09:53:47,662 - DEBUG - Starting new HTTPS connection (1): api.openweathermap.org:443
+2025-03-27 09:54:24,202 - DEBUG - Can't get data from this city : nan
+2025-03-27 09:54:24,202 - INFO - This city nan is being none!
+2025-03-27 09:54:24,207 - DEBUG - Starting new HTTPS connection (1): api.openweathermap.org:443
+2025-03-27 09:54:24,603 - DEBUG - https://api.openweathermap.org:443 "GET /data/2.5/weather?q=nan&appid=2821fede037be9d69dc969d62a41fd60&units=metric HTTP/11" 200 488
+2025-03-27 09:54:24,616 - DEBUG - Starting new HTTPS connection (1): api.openweathermap.org:443
+2025-03-27 09:54:55,825 - DEBUG - Can't get data from this city : nan
+2025-03-27 09:54:55,827 - INFO - This city nan is being none!
+2025-03-27 09:54:55,827 - DEBUG - Starting new HTTPS connection (1): api.openweathermap.org:443
+2025-03-27 09:54:56,227 - DEBUG - https://api.openweathermap.org:443 "GET /data/2.5/weather?q=nan&appid=2821fede037be9d69dc969d62a41fd60&units=metric HTTP/11" 200 488
+2025-03-27 09:54:56,227 - DEBUG - Starting new HTTPS connection (1): api.openweathermap.org:443
+2025-03-27 09:54:56,758 - DEBUG - https://api.openweathermap.org:443 "GET /data/2.5/weather?q=nan&appid=2821fede037be9d69dc969d62a41fd60&units=metric HTTP/11" 200 488
+2025-03-27 09:54:56,761 - DEBUG - Starting new HTTPS connection (1): api.openweathermap.org:443
+2025-03-27 09:54:56,816 - DEBUG - Can't get data from this city : nan
+2025-03-27 09:54:56,822 - INFO - This city nan is being none!
+2025-03-27 09:54:56,822 - DEBUG - Starting new HTTPS connection (1): api.openweathermap.org:443
+2025-03-27 09:54:57,025 - DEBUG - https://api.openweathermap.org:443 "GET /data/2.5/weather?q=nan&appid=2821fede037be9d69dc969d62a41fd60&units=metric HTTP/11" 200 488
+2025-03-27 09:54:57,025 - DEBUG - Starting new HTTPS connection (1): api.openweathermap.org:443
+2025-03-27 09:54:57,678 - DEBUG - https://api.openweathermap.org:443 "GET /data/2.5/weather?q=nan&appid=2821fede037be9d69dc969d62a41fd60&units=metric HTTP/11" 200 488
+2025-03-27 09:54:57,685 - DEBUG - Starting new HTTPS connection (1): api.openweathermap.org:443
+2025-03-27 09:54:57,858 - DEBUG - Can't get data from this city : nan
+2025-03-27 09:54:57,858 - INFO - This city nan is being none!
+2025-03-27 09:54:57,858 - DEBUG - Starting new HTTPS connection (1): api.openweathermap.org:443
+2025-03-27 09:55:29,924 - DEBUG - Can't get data from this city : nan
+2025-03-27 09:55:29,924 - INFO - This city nan is being none!
+2025-03-27 09:55:29,924 - DEBUG - Starting new HTTPS connection (1): api.openweathermap.org:443
+2025-03-27 09:55:30,060 - DEBUG - https://api.openweathermap.org:443 "GET /data/2.5/weather?q=nan&appid=2821fede037be9d69dc969d62a41fd60&units=metric HTTP/11" 200 488
+2025-03-27 09:55:30,060 - DEBUG - Starting new HTTPS connection (1): api.openweathermap.org:443
+2025-03-27 09:55:30,324 - DEBUG - https://api.openweathermap.org:443 "GET /data/2.5/weather?q=nan&appid=2821fede037be9d69dc969d62a41fd60&units=metric HTTP/11" 200 488
+2025-03-27 09:55:30,328 - DEBUG - Starting new HTTPS connection (1): api.openweathermap.org:443
+2025-03-27 09:55:30,558 - DEBUG - https://api.openweathermap.org:443 "GET /data/2.5/weather?q=nan&appid=2821fede037be9d69dc969d62a41fd60&units=metric HTTP/11" 200 488
+2025-03-27 09:55:30,558 - DEBUG - Starting new HTTPS connection (1): api.openweathermap.org:443
+2025-03-27 09:55:36,752 - DEBUG - Starting new HTTPS connection (1): raw.githubusercontent.com:443
+2025-03-27 09:56:40,984 - DEBUG - https://raw.githubusercontent.com:443 "GET /dr5hn/countries-states-cities-database/refs/heads/master/json/countries%2Bcities.json HTTP/11" 200 736373
+2025-03-27 09:56:42,466 - INFO - Received data for Afghanistan - nan
+2025-03-27 09:56:42,466 - INFO - Received data for Aland Islands - nan
+2025-03-27 09:56:42,466 - INFO - Received data for Albania - nan
+2025-03-27 09:56:42,466 - INFO - Received data for Algeria - nan
+2025-03-27 09:56:42,466 - INFO - Received data for American Samoa - nan
+2025-03-27 09:56:42,466 - INFO - Received data for Andorra - nan
+2025-03-27 09:56:42,466 - INFO - Received data for Angola - nan
+2025-03-27 09:56:42,466 - INFO - Received data for Anguilla - nan
+2025-03-27 09:56:42,466 - INFO - Received data for Antarctica - nan
+2025-03-27 09:56:42,466 - INFO - Received data for Antigua and Barbuda - nan
+2025-03-27 09:56:42,466 - INFO - Received data for Argentina - nan
+2025-03-27 09:56:42,466 - INFO - Received data for Armenia - nan
+2025-03-27 09:56:42,466 - INFO - Received data for Aruba - nan
+2025-03-27 09:56:42,466 - INFO - Received data for Australia - nan
+2025-03-27 09:56:42,466 - INFO - Received data for Austria - nan
+2025-03-27 09:56:42,466 - INFO - Received data for Azerbaijan - nan
+2025-03-27 09:56:42,466 - INFO - Received data for Bahrain - nan
+2025-03-27 09:56:42,466 - INFO - Received data for Bangladesh - nan
+2025-03-27 09:56:42,466 - INFO - Received data for Barbados - nan
+2025-03-27 09:56:42,466 - INFO - Received data for Belarus - nan
+2025-03-27 09:56:42,466 - INFO - Received data for Belgium - nan
+2025-03-27 09:56:42,466 - INFO - Received data for Belize - nan
+2025-03-27 09:56:42,466 - INFO - Received data for Benin - nan
+2025-03-27 09:56:42,466 - INFO - Received data for Bermuda - nan
+2025-03-27 09:56:42,466 - INFO - Received data for Bhutan - nan
+2025-03-27 09:56:42,466 - INFO - Received data for Bolivia - nan
+2025-03-27 09:56:42,466 - INFO - Received data for Bonaire, Sint Eustatius and Saba - nan
+2025-03-27 09:56:42,466 - INFO - Received data for Bosnia and Herzegovina - nan
+2025-03-27 09:56:42,466 - INFO - Received data for Botswana - nan
+2025-03-27 09:56:42,466 - INFO - Received data for Bouvet Island - nan
+2025-03-27 09:56:42,466 - INFO - Received data for Brazil - nan
+2025-03-27 09:56:42,466 - INFO - Received data for British Indian Ocean Territory - nan
+2025-03-27 09:56:42,466 - INFO - Received data for Brunei - nan
+2025-03-27 09:56:42,466 - INFO - Received data for Bulgaria - nan
+2025-03-27 09:56:42,466 - INFO - Received data for Burkina Faso - nan
+2025-03-27 09:56:42,466 - INFO - Received data for Burundi - nan
+2025-03-27 09:56:42,466 - INFO - Received data for Cambodia - nan
+2025-03-27 09:56:42,466 - INFO - Received data for Cameroon - nan
+2025-03-27 09:56:42,466 - INFO - Received data for Canada - nan
+2025-03-27 09:56:42,466 - INFO - Received data for Cape Verde - nan
+2025-03-27 09:56:42,466 - INFO - Received data for Cayman Islands - nan
+2025-03-27 09:56:42,466 - INFO - Received data for Central African Republic - nan
+2025-03-27 09:56:42,466 - INFO - Received data for Chad - nan
+2025-03-27 09:56:42,466 - INFO - Received data for Chile - nan
+2025-03-27 09:56:42,466 - INFO - Received data for China - nan
+2025-03-27 09:56:42,466 - INFO - Received data for Christmas Island - nan
+2025-03-27 09:56:42,466 - INFO - Received data for Cocos (Keeling) Islands - nan
+2025-03-27 09:56:42,466 - INFO - Received data for Colombia - nan
+2025-03-27 09:56:42,466 - INFO - Received data for Comoros - nan
+2025-03-27 09:56:42,466 - INFO - Received data for Congo - nan
+2025-03-27 09:56:42,466 - INFO - Received data for Cook Islands - nan
+2025-03-27 09:56:42,466 - INFO - Received data for Costa Rica - nan
+2025-03-27 09:56:42,466 - INFO - Received data for Croatia - nan
+2025-03-27 09:56:42,466 - INFO - Received data for Cuba - nan
+2025-03-27 09:56:42,466 - INFO - Received data for Curaçao - nan
+2025-03-27 09:56:42,466 - INFO - Received data for Cyprus - nan
+2025-03-27 09:56:42,466 - INFO - Received data for Czech Republic - nan
+2025-03-27 09:56:42,466 - INFO - Received data for Democratic Republic of the Congo - nan
+2025-03-27 09:56:42,466 - INFO - Received data for Denmark - nan
+2025-03-27 09:56:42,466 - INFO - Received data for Djibouti - nan
+2025-03-27 09:56:42,466 - INFO - Received data for Dominica - nan
+2025-03-27 09:56:42,466 - INFO - Received data for Dominican Republic - nan
+2025-03-27 09:56:42,466 - INFO - Received data for Ecuador - nan
+2025-03-27 09:56:42,466 - INFO - Received data for Egypt - nan
+2025-03-27 09:56:42,466 - INFO - Received data for El Salvador - nan
+2025-03-27 09:56:42,466 - INFO - Received data for Equatorial Guinea - nan
+2025-03-27 09:56:42,466 - INFO - Received data for Eritrea - nan
+2025-03-27 09:56:42,466 - INFO - Received data for Estonia - nan
+2025-03-27 09:56:42,466 - INFO - Received data for Eswatini - nan
+2025-03-27 09:56:42,466 - INFO - Received data for Ethiopia - nan
+2025-03-27 09:56:42,466 - INFO - Received data for Falkland Islands - nan
+2025-03-27 09:56:42,466 - INFO - Received data for Faroe Islands - nan
+2025-03-27 09:56:42,466 - INFO - Received data for Fiji Islands - nan
+2025-03-27 09:56:42,466 - INFO - Received data for Finland - nan
+2025-03-27 09:56:42,466 - INFO - Received data for France - nan
+2025-03-27 09:56:42,466 - INFO - Received data for French Guiana - nan
+2025-03-27 09:56:42,466 - INFO - Received data for French Polynesia - nan
+2025-03-27 09:56:42,466 - INFO - Received data for French Southern Territories - nan
+2025-03-27 09:56:42,466 - INFO - Received data for Gabon - nan
+2025-03-27 09:56:42,466 - INFO - Received data for Georgia - nan
+2025-03-27 09:56:42,466 - INFO - Received data for Germany - nan
+2025-03-27 09:56:42,466 - INFO - Received data for Ghana - nan
+2025-03-27 09:56:42,466 - INFO - Received data for Gibraltar - nan
+2025-03-27 09:56:42,466 - INFO - Received data for Greece - nan
+2025-03-27 09:56:42,466 - INFO - Received data for Greenland - nan
+2025-03-27 09:56:42,466 - INFO - Received data for Grenada - nan
+2025-03-27 09:56:42,466 - INFO - Received data for Guadeloupe - nan
+2025-03-27 09:56:42,466 - INFO - Received data for Guam - nan
+2025-03-27 09:56:42,466 - INFO - Received data for Guatemala - nan
+2025-03-27 09:56:42,466 - INFO - Received data for Guernsey and Alderney - nan
+2025-03-27 09:56:42,466 - INFO - Received data for Guinea - nan
+2025-03-27 09:56:42,466 - INFO - Received data for Guinea-Bissau - nan
+2025-03-27 09:56:42,466 - INFO - Received data for Guyana - nan
+2025-03-27 09:56:42,466 - INFO - Received data for Haiti - nan
+2025-03-27 09:56:42,466 - INFO - Received data for Heard Island and McDonald Islands - nan
+2025-03-27 09:56:42,466 - INFO - Received data for Honduras - nan
+2025-03-27 09:56:42,466 - INFO - Received data for Hong Kong S.A.R. - nan
+2025-03-27 09:56:42,466 - INFO - Received data for Hungary - nan
+2025-03-27 09:56:42,466 - INFO - Received data for Iceland - nan
+2025-03-27 09:56:42,466 - INFO - Received data for India - nan
+2025-03-27 09:56:42,466 - INFO - Received data for Indonesia - nan
+2025-03-27 09:56:42,466 - INFO - Received data for Iran - nan
+2025-03-27 09:56:42,466 - INFO - Received data for Iraq - nan
+2025-03-27 09:56:42,466 - INFO - Received data for Ireland - nan
+2025-03-27 09:56:42,466 - INFO - Received data for Israel - nan
+2025-03-27 09:56:42,466 - INFO - Received data for Italy - nan
+2025-03-27 09:56:42,466 - INFO - Received data for Ivory Coast - nan
+2025-03-27 09:56:42,466 - INFO - Received data for Jamaica - nan
+2025-03-27 09:56:42,466 - INFO - Received data for Japan - nan
+2025-03-27 09:56:42,466 - INFO - Received data for Jersey - nan
+2025-03-27 09:56:42,466 - INFO - Received data for Jordan - nan
+2025-03-27 09:56:42,466 - INFO - Received data for Kazakhstan - nan
+2025-03-27 09:56:42,466 - INFO - Received data for Kenya - nan
+2025-03-27 09:56:42,466 - INFO - Received data for Kiribati - nan
+2025-03-27 09:56:42,466 - INFO - Received data for Kosovo - nan
+2025-03-27 09:56:42,466 - INFO - Received data for Kuwait - nan
+2025-03-27 09:56:42,466 - INFO - Received data for Kyrgyzstan - nan
+2025-03-27 09:56:42,466 - INFO - Received data for Laos - nan
+2025-03-27 09:56:42,466 - INFO - Received data for Latvia - nan
+2025-03-27 09:56:42,466 - INFO - Received data for Lebanon - nan
+2025-03-27 09:56:42,466 - INFO - Received data for Lesotho - nan
+2025-03-27 09:56:42,466 - INFO - Received data for Liberia - nan
+2025-03-27 09:56:42,466 - INFO - Received data for Libya - nan
+2025-03-27 09:56:42,466 - INFO - Received data for Liechtenstein - nan
+2025-03-27 09:56:42,466 - INFO - Received data for Lithuania - nan
+2025-03-27 09:56:42,466 - INFO - Received data for Luxembourg - nan
+2025-03-27 09:56:42,466 - INFO - Received data for Macau S.A.R. - nan
+2025-03-27 09:56:42,466 - INFO - Received data for Madagascar - nan
+2025-03-27 09:56:42,466 - INFO - Received data for Malawi - nan
+2025-03-27 09:56:42,466 - INFO - Received data for Malaysia - nan
+2025-03-27 09:56:42,466 - INFO - Received data for Maldives - nan
+2025-03-27 09:56:42,466 - INFO - Received data for Mali - nan
+2025-03-27 09:56:42,466 - INFO - Received data for Malta - nan
+2025-03-27 09:56:42,466 - INFO - Received data for Man (Isle of) - nan
+2025-03-27 09:56:42,466 - INFO - Received data for Marshall Islands - nan
+2025-03-27 09:56:42,466 - INFO - Received data for Martinique - nan
+2025-03-27 09:56:42,466 - INFO - Received data for Mauritania - nan
+2025-03-27 09:56:42,466 - INFO - Received data for Mauritius - nan
+2025-03-27 09:56:42,466 - INFO - Received data for Mayotte - nan
+2025-03-27 09:56:42,466 - INFO - Received data for Mexico - nan
+2025-03-27 09:56:42,466 - INFO - Received data for Micronesia - nan
+2025-03-27 09:56:42,466 - INFO - Received data for Moldova - nan
+2025-03-27 09:56:42,466 - INFO - Received data for Monaco - nan
+2025-03-27 09:56:42,466 - INFO - Received data for Mongolia - nan
+2025-03-27 09:56:42,466 - INFO - Received data for Montenegro - nan
+2025-03-27 09:56:42,466 - INFO - Received data for Montserrat - nan
+2025-03-27 09:56:42,466 - INFO - Received data for Morocco - nan
+2025-03-27 09:56:42,466 - INFO - Received data for Mozambique - nan
+2025-03-27 09:56:42,466 - INFO - Received data for Myanmar - nan
+2025-03-27 09:56:42,466 - INFO - Received data for Namibia - nan
+2025-03-27 09:56:42,466 - INFO - Received data for Nauru - nan
+2025-03-27 09:56:42,466 - INFO - Received data for Nepal - nan
+2025-03-27 09:56:42,466 - INFO - Received data for Netherlands - nan
+2025-03-27 09:56:42,466 - INFO - Received data for New Caledonia - nan
+2025-03-27 09:56:42,466 - INFO - Received data for New Zealand - nan
+2025-03-27 09:56:42,466 - INFO - Received data for Nicaragua - nan
+2025-03-27 09:56:42,466 - INFO - Received data for Niger - nan
+2025-03-27 09:56:42,466 - INFO - Received data for Nigeria - nan
+2025-03-27 09:56:42,466 - INFO - Received data for Niue - nan
+2025-03-27 09:56:42,466 - INFO - Received data for Norfolk Island - nan
+2025-03-27 09:56:42,466 - INFO - Received data for North Korea - nan
+2025-03-27 09:56:42,466 - INFO - Received data for North Macedonia - nan
+2025-03-27 09:56:42,466 - INFO - Received data for Northern Mariana Islands - nan
+2025-03-27 09:56:42,466 - INFO - Received data for Norway - nan
+2025-03-27 09:56:42,466 - INFO - Received data for Oman - nan
+2025-03-27 09:56:42,466 - INFO - Received data for Pakistan - nan
+2025-03-27 09:56:42,466 - INFO - Received data for Palau - nan
+2025-03-27 09:56:42,466 - INFO - Received data for Palestinian Territory Occupied - nan
+2025-03-27 09:56:42,466 - INFO - Received data for Panama - nan
+2025-03-27 09:56:42,466 - INFO - Received data for Papua New Guinea - nan
+2025-03-27 09:56:42,466 - INFO - Received data for Paraguay - nan
+2025-03-27 09:56:42,466 - INFO - Received data for Peru - nan
+2025-03-27 09:56:42,466 - INFO - Received data for Philippines - nan
+2025-03-27 09:56:42,466 - INFO - Received data for Pitcairn Island - nan
+2025-03-27 09:56:42,466 - INFO - Received data for Poland - nan
+2025-03-27 09:56:42,466 - INFO - Received data for Portugal - nan
+2025-03-27 09:56:42,466 - INFO - Received data for Puerto Rico - nan
+2025-03-27 09:56:42,466 - INFO - Received data for Qatar - nan
+2025-03-27 09:56:42,466 - INFO - Received data for Reunion - nan
+2025-03-27 09:56:42,466 - INFO - Received data for Romania - nan
+2025-03-27 09:56:42,466 - INFO - Received data for Russia - nan
+2025-03-27 09:56:42,466 - INFO - Received data for Rwanda - nan
+2025-03-27 09:56:42,466 - INFO - Received data for Saint Helena - nan
+2025-03-27 09:56:42,466 - INFO - Received data for Saint Kitts and Nevis - nan
+2025-03-27 09:56:42,466 - INFO - Received data for Saint Lucia - nan
+2025-03-27 09:56:42,466 - INFO - Received data for Saint Pierre and Miquelon - nan
+2025-03-27 09:56:42,466 - INFO - Received data for Saint Vincent and the Grenadines - nan
+2025-03-27 09:56:42,466 - INFO - Received data for Saint-Barthelemy - nan
+2025-03-27 09:56:42,466 - INFO - Received data for Saint-Martin (French part) - nan
+2025-03-27 09:56:42,466 - INFO - Received data for Samoa - nan
+2025-03-27 09:56:42,466 - INFO - Received data for San Marino - nan
+2025-03-27 09:56:42,466 - INFO - Received data for Sao Tome and Principe - nan
+2025-03-27 09:56:42,466 - INFO - Received data for Saudi Arabia - nan
+2025-03-27 09:56:42,466 - INFO - Received data for Senegal - nan
+2025-03-27 09:56:42,466 - INFO - Received data for Serbia - nan
+2025-03-27 09:56:42,466 - INFO - Received data for Seychelles - nan
+2025-03-27 09:56:42,466 - INFO - Received data for Sierra Leone - nan
+2025-03-27 09:56:42,466 - INFO - Received data for Singapore - nan
+2025-03-27 09:56:42,466 - INFO - Received data for Sint Maarten (Dutch part) - nan
+2025-03-27 09:56:42,466 - INFO - Received data for Slovakia - nan
+2025-03-27 09:56:42,466 - INFO - Received data for Slovenia - nan
+2025-03-27 09:56:42,466 - INFO - Received data for Solomon Islands - nan
+2025-03-27 09:56:42,466 - INFO - Received data for Somalia - nan
+2025-03-27 09:56:42,466 - INFO - Received data for South Africa - nan
+2025-03-27 09:56:42,466 - INFO - Received data for South Georgia - nan
+2025-03-27 09:56:42,466 - INFO - Received data for South Korea - nan
+2025-03-27 09:56:42,466 - INFO - Received data for South Sudan - nan
+2025-03-27 09:56:42,466 - INFO - Received data for Spain - nan
+2025-03-27 09:56:42,466 - INFO - Received data for Sri Lanka - nan
+2025-03-27 09:56:42,466 - INFO - Received data for Sudan - nan
+2025-03-27 09:56:42,466 - INFO - Received data for Suriname - nan
+2025-03-27 09:56:42,466 - INFO - Received data for Svalbard and Jan Mayen Islands - nan
+2025-03-27 09:56:42,466 - INFO - Received data for Sweden - nan
+2025-03-27 09:56:42,466 - INFO - Received data for Switzerland - nan
+2025-03-27 09:56:42,466 - INFO - Received data for Syria - nan
+2025-03-27 09:56:42,466 - INFO - Received data for Taiwan - nan
+2025-03-27 09:56:42,466 - INFO - Received data for Tajikistan - nan
+2025-03-27 09:56:42,466 - INFO - Received data for Tanzania - nan
+2025-03-27 09:56:42,466 - INFO - Received data for Thailand - nan
+2025-03-27 09:56:42,466 - INFO - Received data for The Bahamas - nan
+2025-03-27 09:56:42,466 - INFO - Received data for The Gambia  - nan
+2025-03-27 09:56:42,466 - INFO - Received data for Timor-Leste - nan
+2025-03-27 09:56:42,466 - INFO - Received data for Togo - nan
+2025-03-27 09:56:42,466 - INFO - Received data for Tokelau - nan
+2025-03-27 09:56:42,466 - INFO - Received data for Tonga - nan
+2025-03-27 09:56:42,466 - INFO - Received data for Trinidad and Tobago - nan
+2025-03-27 09:56:42,466 - INFO - Received data for Tunisia - nan
+2025-03-27 09:56:42,466 - INFO - Received data for Turkey - nan
+2025-03-27 09:56:42,466 - INFO - Received data for Turkmenistan - nan
+2025-03-27 09:56:42,466 - INFO - Received data for Turks and Caicos Islands - nan
+2025-03-27 09:56:42,466 - INFO - Received data for Tuvalu - nan
+2025-03-27 09:56:42,466 - INFO - Received data for Uganda - nan
+2025-03-27 09:56:42,466 - INFO - Received data for Ukraine - nan
+2025-03-27 09:56:42,466 - INFO - Received data for United Arab Emirates - nan
+2025-03-27 09:56:42,466 - INFO - Received data for United Kingdom - nan
+2025-03-27 09:56:42,466 - INFO - Received data for United States - nan
+2025-03-27 09:56:42,466 - INFO - Received data for United States Minor Outlying Islands - nan
+2025-03-27 09:56:42,466 - INFO - Received data for Uruguay - nan
+2025-03-27 09:56:42,466 - INFO - Received data for Uzbekistan - nan
+2025-03-27 09:56:42,466 - INFO - Received data for Vanuatu - nan
+2025-03-27 09:56:42,466 - INFO - Received data for Vatican City State (Holy See) - nan
+2025-03-27 09:56:42,466 - INFO - Received data for Venezuela - nan
+2025-03-27 09:56:42,466 - INFO - Received data for Vietnam - nan
+2025-03-27 09:56:42,466 - INFO - Received data for Virgin Islands (British) - nan
+2025-03-27 09:56:42,466 - INFO - Received data for Virgin Islands (US) - nan
+2025-03-27 09:56:42,466 - INFO - Received data for Wallis and Futuna Islands - nan
+2025-03-27 09:56:42,466 - INFO - Received data for Western Sahara - nan
+2025-03-27 09:56:42,466 - INFO - Received data for Yemen - nan
+2025-03-27 09:56:42,466 - INFO - Received data for Zambia - nan
+2025-03-27 09:56:42,466 - INFO - Received data for Zimbabwe - nan
+2025-03-27 09:58:19,593 - DEBUG - Starting new HTTPS connection (1): raw.githubusercontent.com:443
+2025-03-27 09:59:23,910 - DEBUG - https://raw.githubusercontent.com:443 "GET /dr5hn/countries-states-cities-database/refs/heads/master/json/countries%2Bcities.json HTTP/11" 200 736373
+2025-03-27 09:59:30,203 - INFO - Received data for Afghanistan - nan
+2025-03-27 09:59:30,203 - INFO - Received data for Aland Islands - nan
+2025-03-27 09:59:30,203 - INFO - Received data for Albania - nan
+2025-03-27 09:59:30,205 - INFO - Received data for Algeria - nan
+2025-03-27 09:59:30,205 - INFO - Received data for American Samoa - nan
+2025-03-27 09:59:30,205 - INFO - Received data for Andorra - nan
+2025-03-27 09:59:30,205 - INFO - Received data for Angola - nan
+2025-03-27 09:59:30,205 - INFO - Received data for Anguilla - nan
+2025-03-27 09:59:30,205 - INFO - Received data for Antarctica - nan
+2025-03-27 09:59:30,205 - INFO - Received data for Antigua and Barbuda - nan
+2025-03-27 09:59:30,205 - INFO - Received data for Argentina - nan
+2025-03-27 09:59:30,205 - INFO - Received data for Armenia - nan
+2025-03-27 09:59:30,205 - INFO - Received data for Aruba - nan
+2025-03-27 09:59:30,205 - INFO - Received data for Australia - nan
+2025-03-27 09:59:30,205 - INFO - Received data for Austria - nan
+2025-03-27 09:59:30,205 - INFO - Received data for Azerbaijan - nan
+2025-03-27 09:59:30,205 - INFO - Received data for Bahrain - nan
+2025-03-27 09:59:30,205 - INFO - Received data for Bangladesh - nan
+2025-03-27 09:59:30,205 - INFO - Received data for Barbados - nan
+2025-03-27 09:59:30,205 - INFO - Received data for Belarus - nan
+2025-03-27 09:59:30,205 - INFO - Received data for Belgium - nan
+2025-03-27 09:59:30,205 - INFO - Received data for Belize - nan
+2025-03-27 09:59:30,205 - INFO - Received data for Benin - nan
+2025-03-27 09:59:30,205 - INFO - Received data for Bermuda - nan
+2025-03-27 09:59:30,205 - INFO - Received data for Bhutan - nan
+2025-03-27 09:59:30,207 - INFO - Received data for Bolivia - nan
+2025-03-27 09:59:30,207 - INFO - Received data for Bonaire, Sint Eustatius and Saba - nan
+2025-03-27 09:59:30,207 - INFO - Received data for Bosnia and Herzegovina - nan
+2025-03-27 09:59:30,207 - INFO - Received data for Botswana - nan
+2025-03-27 09:59:30,207 - INFO - Received data for Bouvet Island - nan
+2025-03-27 09:59:30,207 - INFO - Received data for Brazil - nan
+2025-03-27 09:59:30,207 - INFO - Received data for British Indian Ocean Territory - nan
+2025-03-27 09:59:30,207 - INFO - Received data for Brunei - nan
+2025-03-27 09:59:30,207 - INFO - Received data for Bulgaria - nan
+2025-03-27 09:59:30,207 - INFO - Received data for Burkina Faso - nan
+2025-03-27 09:59:30,207 - INFO - Received data for Burundi - nan
+2025-03-27 09:59:30,207 - INFO - Received data for Cambodia - nan
+2025-03-27 09:59:30,207 - INFO - Received data for Cameroon - nan
+2025-03-27 09:59:30,207 - INFO - Received data for Canada - nan
+2025-03-27 09:59:30,207 - INFO - Received data for Cape Verde - nan
+2025-03-27 09:59:30,207 - INFO - Received data for Cayman Islands - nan
+2025-03-27 09:59:30,207 - INFO - Received data for Central African Republic - nan
+2025-03-27 09:59:30,207 - INFO - Received data for Chad - nan
+2025-03-27 09:59:30,207 - INFO - Received data for Chile - nan
+2025-03-27 09:59:30,207 - INFO - Received data for China - nan
+2025-03-27 09:59:30,207 - INFO - Received data for Christmas Island - nan
+2025-03-27 09:59:30,207 - INFO - Received data for Cocos (Keeling) Islands - nan
+2025-03-27 09:59:30,207 - INFO - Received data for Colombia - nan
+2025-03-27 09:59:30,207 - INFO - Received data for Comoros - nan
+2025-03-27 09:59:30,207 - INFO - Received data for Congo - nan
+2025-03-27 09:59:30,207 - INFO - Received data for Cook Islands - nan
+2025-03-27 09:59:30,207 - INFO - Received data for Costa Rica - nan
+2025-03-27 09:59:30,207 - INFO - Received data for Croatia - nan
+2025-03-27 09:59:30,209 - INFO - Received data for Cuba - nan
+2025-03-27 09:59:30,209 - INFO - Received data for Curaçao - nan
+2025-03-27 09:59:30,209 - INFO - Received data for Cyprus - nan
+2025-03-27 09:59:30,209 - INFO - Received data for Czech Republic - nan
+2025-03-27 09:59:30,209 - INFO - Received data for Democratic Republic of the Congo - nan
+2025-03-27 09:59:30,209 - INFO - Received data for Denmark - nan
+2025-03-27 09:59:30,209 - INFO - Received data for Djibouti - nan
+2025-03-27 09:59:30,209 - INFO - Received data for Dominica - nan
+2025-03-27 09:59:30,209 - INFO - Received data for Dominican Republic - nan
+2025-03-27 09:59:30,209 - INFO - Received data for Ecuador - nan
+2025-03-27 09:59:30,209 - INFO - Received data for Egypt - nan
+2025-03-27 09:59:30,209 - INFO - Received data for El Salvador - nan
+2025-03-27 09:59:30,209 - INFO - Received data for Equatorial Guinea - nan
+2025-03-27 09:59:30,209 - INFO - Received data for Eritrea - nan
+2025-03-27 09:59:30,209 - INFO - Received data for Estonia - nan
+2025-03-27 09:59:30,209 - INFO - Received data for Eswatini - nan
+2025-03-27 09:59:30,209 - INFO - Received data for Ethiopia - nan
+2025-03-27 09:59:30,209 - INFO - Received data for Falkland Islands - nan
+2025-03-27 09:59:30,209 - INFO - Received data for Faroe Islands - nan
+2025-03-27 09:59:30,209 - INFO - Received data for Fiji Islands - nan
+2025-03-27 09:59:30,209 - INFO - Received data for Finland - nan
+2025-03-27 09:59:30,209 - INFO - Received data for France - nan
+2025-03-27 09:59:30,209 - INFO - Received data for French Guiana - nan
+2025-03-27 09:59:30,209 - INFO - Received data for French Polynesia - nan
+2025-03-27 09:59:30,209 - INFO - Received data for French Southern Territories - nan
+2025-03-27 09:59:30,209 - INFO - Received data for Gabon - nan
+2025-03-27 09:59:30,209 - INFO - Received data for Georgia - nan
+2025-03-27 09:59:30,209 - INFO - Received data for Germany - nan
+2025-03-27 09:59:30,211 - INFO - Received data for Ghana - nan
+2025-03-27 09:59:30,211 - INFO - Received data for Gibraltar - nan
+2025-03-27 09:59:30,211 - INFO - Received data for Greece - nan
+2025-03-27 09:59:30,211 - INFO - Received data for Greenland - nan
+2025-03-27 09:59:30,211 - INFO - Received data for Grenada - nan
+2025-03-27 09:59:30,211 - INFO - Received data for Guadeloupe - nan
+2025-03-27 09:59:30,211 - INFO - Received data for Guam - nan
+2025-03-27 09:59:30,211 - INFO - Received data for Guatemala - nan
+2025-03-27 09:59:30,211 - INFO - Received data for Guernsey and Alderney - nan
+2025-03-27 09:59:30,211 - INFO - Received data for Guinea - nan
+2025-03-27 09:59:30,211 - INFO - Received data for Guinea-Bissau - nan
+2025-03-27 09:59:30,211 - INFO - Received data for Guyana - nan
+2025-03-27 09:59:30,211 - INFO - Received data for Haiti - nan
+2025-03-27 09:59:30,211 - INFO - Received data for Heard Island and McDonald Islands - nan
+2025-03-27 09:59:30,211 - INFO - Received data for Honduras - nan
+2025-03-27 09:59:30,211 - INFO - Received data for Hong Kong S.A.R. - nan
+2025-03-27 09:59:30,211 - INFO - Received data for Hungary - nan
+2025-03-27 09:59:30,211 - INFO - Received data for Iceland - nan
+2025-03-27 09:59:30,211 - INFO - Received data for India - nan
+2025-03-27 09:59:30,211 - INFO - Received data for Indonesia - nan
+2025-03-27 09:59:30,211 - INFO - Received data for Iran - nan
+2025-03-27 09:59:30,211 - INFO - Received data for Iraq - nan
+2025-03-27 09:59:30,211 - INFO - Received data for Ireland - nan
+2025-03-27 09:59:30,213 - INFO - Received data for Israel - nan
+2025-03-27 09:59:30,213 - INFO - Received data for Italy - nan
+2025-03-27 09:59:30,213 - INFO - Received data for Ivory Coast - nan
+2025-03-27 09:59:30,213 - INFO - Received data for Jamaica - nan
+2025-03-27 09:59:30,213 - INFO - Received data for Japan - nan
+2025-03-27 09:59:30,213 - INFO - Received data for Jersey - nan
+2025-03-27 09:59:30,213 - INFO - Received data for Jordan - nan
+2025-03-27 09:59:30,213 - INFO - Received data for Kazakhstan - nan
+2025-03-27 09:59:30,213 - INFO - Received data for Kenya - nan
+2025-03-27 09:59:30,213 - INFO - Received data for Kiribati - nan
+2025-03-27 09:59:30,213 - INFO - Received data for Kosovo - nan
+2025-03-27 09:59:30,213 - INFO - Received data for Kuwait - nan
+2025-03-27 09:59:30,213 - INFO - Received data for Kyrgyzstan - nan
+2025-03-27 09:59:30,213 - INFO - Received data for Laos - nan
+2025-03-27 09:59:30,213 - INFO - Received data for Latvia - nan
+2025-03-27 09:59:30,213 - INFO - Received data for Lebanon - nan
+2025-03-27 09:59:30,213 - INFO - Received data for Lesotho - nan
+2025-03-27 09:59:30,213 - INFO - Received data for Liberia - nan
+2025-03-27 09:59:30,213 - INFO - Received data for Libya - nan
+2025-03-27 09:59:30,213 - INFO - Received data for Liechtenstein - nan
+2025-03-27 09:59:30,213 - INFO - Received data for Lithuania - nan
+2025-03-27 09:59:30,213 - INFO - Received data for Luxembourg - nan
+2025-03-27 09:59:30,213 - INFO - Received data for Macau S.A.R. - nan
+2025-03-27 09:59:30,213 - INFO - Received data for Madagascar - nan
+2025-03-27 09:59:30,213 - INFO - Received data for Malawi - nan
+2025-03-27 09:59:30,213 - INFO - Received data for Malaysia - nan
+2025-03-27 09:59:30,213 - INFO - Received data for Maldives - nan
+2025-03-27 09:59:30,213 - INFO - Received data for Mali - nan
+2025-03-27 09:59:30,213 - INFO - Received data for Malta - nan
+2025-03-27 09:59:30,215 - INFO - Received data for Man (Isle of) - nan
+2025-03-27 09:59:30,215 - INFO - Received data for Marshall Islands - nan
+2025-03-27 09:59:30,215 - INFO - Received data for Martinique - nan
+2025-03-27 09:59:30,215 - INFO - Received data for Mauritania - nan
+2025-03-27 09:59:30,215 - INFO - Received data for Mauritius - nan
+2025-03-27 09:59:30,215 - INFO - Received data for Mayotte - nan
+2025-03-27 09:59:30,215 - INFO - Received data for Mexico - nan
+2025-03-27 09:59:30,215 - INFO - Received data for Micronesia - nan
+2025-03-27 09:59:30,215 - INFO - Received data for Moldova - nan
+2025-03-27 09:59:30,215 - INFO - Received data for Monaco - nan
+2025-03-27 09:59:30,215 - INFO - Received data for Mongolia - nan
+2025-03-27 09:59:30,215 - INFO - Received data for Montenegro - nan
+2025-03-27 09:59:30,215 - INFO - Received data for Montserrat - nan
+2025-03-27 09:59:30,215 - INFO - Received data for Morocco - nan
+2025-03-27 09:59:30,215 - INFO - Received data for Mozambique - nan
+2025-03-27 09:59:30,215 - INFO - Received data for Myanmar - nan
+2025-03-27 09:59:30,215 - INFO - Received data for Namibia - nan
+2025-03-27 09:59:30,215 - INFO - Received data for Nauru - nan
+2025-03-27 09:59:30,215 - INFO - Received data for Nepal - nan
+2025-03-27 09:59:30,215 - INFO - Received data for Netherlands - nan
+2025-03-27 09:59:30,215 - INFO - Received data for New Caledonia - nan
+2025-03-27 09:59:30,215 - INFO - Received data for New Zealand - nan
+2025-03-27 09:59:30,215 - INFO - Received data for Nicaragua - nan
+2025-03-27 09:59:30,215 - INFO - Received data for Niger - nan
+2025-03-27 09:59:30,215 - INFO - Received data for Nigeria - nan
+2025-03-27 09:59:30,215 - INFO - Received data for Niue - nan
+2025-03-27 09:59:30,215 - INFO - Received data for Norfolk Island - nan
+2025-03-27 09:59:30,215 - INFO - Received data for North Korea - nan
+2025-03-27 09:59:30,215 - INFO - Received data for North Macedonia - nan
+2025-03-27 09:59:30,215 - INFO - Received data for Northern Mariana Islands - nan
+2025-03-27 09:59:30,215 - INFO - Received data for Norway - nan
+2025-03-27 09:59:30,215 - INFO - Received data for Oman - nan
+2025-03-27 09:59:30,217 - INFO - Received data for Pakistan - nan
+2025-03-27 09:59:30,217 - INFO - Received data for Palau - nan
+2025-03-27 09:59:30,217 - INFO - Received data for Palestinian Territory Occupied - nan
+2025-03-27 09:59:30,217 - INFO - Received data for Panama - nan
+2025-03-27 09:59:30,217 - INFO - Received data for Papua New Guinea - nan
+2025-03-27 09:59:30,217 - INFO - Received data for Paraguay - nan
+2025-03-27 09:59:30,217 - INFO - Received data for Peru - nan
+2025-03-27 09:59:30,217 - INFO - Received data for Philippines - nan
+2025-03-27 09:59:30,217 - INFO - Received data for Pitcairn Island - nan
+2025-03-27 09:59:30,217 - INFO - Received data for Poland - nan
+2025-03-27 09:59:30,217 - INFO - Received data for Portugal - nan
+2025-03-27 09:59:30,217 - INFO - Received data for Puerto Rico - nan
+2025-03-27 09:59:30,217 - INFO - Received data for Qatar - nan
+2025-03-27 09:59:30,217 - INFO - Received data for Reunion - nan
+2025-03-27 09:59:30,217 - INFO - Received data for Romania - nan
+2025-03-27 09:59:30,217 - INFO - Received data for Russia - nan
+2025-03-27 09:59:30,217 - INFO - Received data for Rwanda - nan
+2025-03-27 09:59:30,217 - INFO - Received data for Saint Helena - nan
+2025-03-27 09:59:30,217 - INFO - Received data for Saint Kitts and Nevis - nan
+2025-03-27 09:59:30,217 - INFO - Received data for Saint Lucia - nan
+2025-03-27 09:59:30,217 - INFO - Received data for Saint Pierre and Miquelon - nan
+2025-03-27 09:59:30,217 - INFO - Received data for Saint Vincent and the Grenadines - nan
+2025-03-27 09:59:30,217 - INFO - Received data for Saint-Barthelemy - nan
+2025-03-27 09:59:30,217 - INFO - Received data for Saint-Martin (French part) - nan
+2025-03-27 09:59:30,217 - INFO - Received data for Samoa - nan
+2025-03-27 09:59:30,217 - INFO - Received data for San Marino - nan
+2025-03-27 09:59:30,217 - INFO - Received data for Sao Tome and Principe - nan
+2025-03-27 09:59:30,217 - INFO - Received data for Saudi Arabia - nan
+2025-03-27 09:59:30,217 - INFO - Received data for Senegal - nan
+2025-03-27 09:59:30,217 - INFO - Received data for Serbia - nan
+2025-03-27 09:59:30,217 - INFO - Received data for Seychelles - nan
+2025-03-27 09:59:30,217 - INFO - Received data for Sierra Leone - nan
+2025-03-27 09:59:30,217 - INFO - Received data for Singapore - nan
+2025-03-27 09:59:30,217 - INFO - Received data for Sint Maarten (Dutch part) - nan
+2025-03-27 09:59:30,217 - INFO - Received data for Slovakia - nan
+2025-03-27 09:59:30,217 - INFO - Received data for Slovenia - nan
+2025-03-27 09:59:30,217 - INFO - Received data for Solomon Islands - nan
+2025-03-27 09:59:30,217 - INFO - Received data for Somalia - nan
+2025-03-27 09:59:30,217 - INFO - Received data for South Africa - nan
+2025-03-27 09:59:30,217 - INFO - Received data for South Georgia - nan
+2025-03-27 09:59:30,217 - INFO - Received data for South Korea - nan
+2025-03-27 09:59:30,217 - INFO - Received data for South Sudan - nan
+2025-03-27 09:59:30,217 - INFO - Received data for Spain - nan
+2025-03-27 09:59:30,217 - INFO - Received data for Sri Lanka - nan
+2025-03-27 09:59:30,217 - INFO - Received data for Sudan - nan
+2025-03-27 09:59:30,217 - INFO - Received data for Suriname - nan
+2025-03-27 09:59:30,217 - INFO - Received data for Svalbard and Jan Mayen Islands - nan
+2025-03-27 09:59:30,217 - INFO - Received data for Sweden - nan
+2025-03-27 09:59:30,217 - INFO - Received data for Switzerland - nan
+2025-03-27 09:59:30,217 - INFO - Received data for Syria - nan
+2025-03-27 09:59:30,217 - INFO - Received data for Taiwan - nan
+2025-03-27 09:59:30,217 - INFO - Received data for Tajikistan - nan
+2025-03-27 09:59:30,217 - INFO - Received data for Tanzania - nan
+2025-03-27 09:59:30,217 - INFO - Received data for Thailand - nan
+2025-03-27 09:59:30,217 - INFO - Received data for The Bahamas - nan
+2025-03-27 09:59:30,217 - INFO - Received data for The Gambia  - nan
+2025-03-27 09:59:30,217 - INFO - Received data for Timor-Leste - nan
+2025-03-27 09:59:30,217 - INFO - Received data for Togo - nan
+2025-03-27 09:59:30,217 - INFO - Received data for Tokelau - nan
+2025-03-27 09:59:30,217 - INFO - Received data for Tonga - nan
+2025-03-27 09:59:30,217 - INFO - Received data for Trinidad and Tobago - nan
+2025-03-27 09:59:30,217 - INFO - Received data for Tunisia - nan
+2025-03-27 09:59:30,217 - INFO - Received data for Turkey - nan
+2025-03-27 09:59:30,217 - INFO - Received data for Turkmenistan - nan
+2025-03-27 09:59:30,217 - INFO - Received data for Turks and Caicos Islands - nan
+2025-03-27 09:59:30,217 - INFO - Received data for Tuvalu - nan
+2025-03-27 09:59:30,217 - INFO - Received data for Uganda - nan
+2025-03-27 09:59:30,217 - INFO - Received data for Ukraine - nan
+2025-03-27 09:59:30,217 - INFO - Received data for United Arab Emirates - nan
+2025-03-27 09:59:30,217 - INFO - Received data for United Kingdom - nan
+2025-03-27 09:59:30,217 - INFO - Received data for United States - nan
+2025-03-27 09:59:30,217 - INFO - Received data for United States Minor Outlying Islands - nan
+2025-03-27 09:59:30,217 - INFO - Received data for Uruguay - nan
+2025-03-27 09:59:30,217 - INFO - Received data for Uzbekistan - nan
+2025-03-27 09:59:30,217 - INFO - Received data for Vanuatu - nan
+2025-03-27 09:59:30,217 - INFO - Received data for Vatican City State (Holy See) - nan
+2025-03-27 09:59:30,217 - INFO - Received data for Venezuela - nan
+2025-03-27 09:59:30,217 - INFO - Received data for Vietnam - nan
+2025-03-27 09:59:30,217 - INFO - Received data for Virgin Islands (British) - nan
+2025-03-27 09:59:30,217 - INFO - Received data for Virgin Islands (US) - nan
+2025-03-27 09:59:30,217 - INFO - Received data for Wallis and Futuna Islands - nan
+2025-03-27 09:59:30,217 - INFO - Received data for Western Sahara - nan
+2025-03-27 09:59:30,217 - INFO - Received data for Yemen - nan
+2025-03-27 09:59:30,217 - INFO - Received data for Zambia - nan
+2025-03-27 09:59:30,217 - INFO - Received data for Zimbabwe - nan
