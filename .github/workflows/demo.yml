@@ -27,9 +27,9 @@ jobs:
         run: python project/main.py
         env:
           WEATHER_KEY: ${{secrets.WEATHER_KEY}}
-      - name: Push changes for saved sqlite db
+      - name: Push changes to save as City_Weather_Covid_Data.xlsx
         run: |
           git config user.name "Github Actions"
           git config user.email "actions@users.noreply.github.com"
           git add ./City_Weather_Covid_Data.xlsx
-          git commit -m "Push db from demo" && git push || true
+          git commit -m "Push City_Weather_Covid_Data.xlsx from demo" && git push || true
