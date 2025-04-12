@@ -1,3 +1,14 @@
+import subprocess
+import sys
+
+# Ensure openpyxl is installed
+try:
+    import openpyxl
+except ImportError:
+    print(" 'openpyxl' not found. Installing now...")
+    subprocess.check_call([sys.executable, "-m", "pip", "install", "openpyxl"])
+    import openpyxl
+
 import os
 import json
 from dotenv import load_dotenv
